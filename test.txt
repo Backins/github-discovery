@@ -1,1 +1,3 @@
-test de contribution sur GtHb
+__test de contribution sur GtHub__
+
+GitHub est un logiciel facilitant le travail à plusieurs, grâce à un système de branche. C'est aussi un logiciel de versionning, c'est à dire que l'on peut accéder à une étape x du projet qui s'est déroulé à un instant t et ça, n'importe comment
